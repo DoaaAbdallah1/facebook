@@ -1,6 +1,6 @@
 # Facebook UI 📱
 
-A modern **Facebook-inspired mobile UI** built with Flutter. This project recreates the look and feel of Facebook with a clean layout and reusable widgets.
+A modern **Facebook-inspired mobile UI** built with Flutter. This project recreates the look and feel of Facebook with a clean design, reusable widgets, and a smooth user experience.
 
 ## 📸 Preview
 
@@ -10,12 +10,12 @@ A modern **Facebook-inspired mobile UI** built with Flutter. This project recrea
 
 - Facebook-inspired home screen.
 - Custom app bar with Facebook logo and action icons.
-- Bottom navigation tabs.
+- Tab navigation with interactive icons.
 - Stories section with profile images.
 - Create Story widget.
 - Dynamic post feed with user information.
 - Support for text-only, image-only, and text-and-image posts.
-- Post interaction icons (Like, Comment, Share, and Save).
+- Post interaction buttons (Like, Comment, Share, and Save).
 - Smooth scrolling experience.
 - Reusable and organized Flutter widgets.
 
@@ -50,30 +50,30 @@ lib/
 
 assets/
 └── Images/
-    └── final.mp4
+    └── final_compressed.mp4
 ```
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+### Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/DoaaAbdallah1/facebook.git
 ```
 
-2. Navigate to the project directory:
+### Navigate to the project directory
 
 ```bash
-cd facebook_ui
+cd facebook
 ```
 
-3. Install dependencies:
+### Install dependencies
 
 ```bash
 flutter pub get
 ```
 
-4. Run the application:
+### Run the application
 
 ```bash
 flutter run
@@ -81,8 +81,16 @@ flutter run
 
 ## 🎯 Project Goal
 
-The goal of this project is to improve my Flutter development skills by recreating a familiar social media interface, practicing reusable widgets, UI composition, and scroll behavior.
+This project is part of my Flutter learning journey. I built it to practice creating modern mobile interfaces, working with reusable widgets, organizing code, and implementing scrolling behavior.
 
 ---
 
-**Made with ❤️ using Flutter**
+## 👩‍💻 Developer
+
+**Doaa Abdallah**
+
+GitHub: [@DoaaAbdallah1](https://github.com/DoaaAbdallah1)
+
+---
+
+*Built with Flutter.*
