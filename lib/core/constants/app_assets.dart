@@ -17,5 +17,9 @@ abstract class AppAssets {
   static const String logoImgSVG = "assets/Images/facebook-svgrepo-com (1) 1.svg";
   static const String metaLogoSVG = "assets/Images/Meta Logo.svg";
   static const String facebookLogoSVG = "assets/Images/Facebook.svg";
-
+  
+  // icon
+  static const String messengerIcon = "assets/icons/Messenger.png";
+  static const String plusIcon = "assets/icons/Plus.png";
+  static const String searchIcon = "assets/icons/Search (1).png";
 }
